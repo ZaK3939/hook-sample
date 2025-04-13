@@ -1,0 +1,4 @@
+@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+forge-std/=node_modules/forge-std/
+@openzeppelin/uniswap-hooks/=lib/uniswap-hooks/src/
+v4-periphery/=lib/v4-periphery/
